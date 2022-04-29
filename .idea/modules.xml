@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Annagram.iml" filepath="$PROJECT_DIR$/.idea/Annagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnit/JUnit.iml" filepath="$PROJECT_DIR$/JUnit/JUnit.iml" />
     </modules>
   </component>
 </project>
